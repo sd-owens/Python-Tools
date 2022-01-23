@@ -1,3 +1,5 @@
+#!/bin/python3
+
 import socket
 
 target = input('Enter the IP address to scan: ')
